@@ -19,7 +19,7 @@ my challenge will be focus on javascript [REACT , EXPRESS , GRAHQL , TYPESCRIPT 
 
 **Link to work:** documentation github.com/airbnb/javascript
 
-### Day 1: October 17, 2019
+### Day 2: October 17, 2019
 ##### (delete me or comment me out)
 
 **Today's Progress**: Overview of Es5 and EsNext.(LAst part)
